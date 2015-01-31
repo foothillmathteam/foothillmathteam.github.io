@@ -8,9 +8,22 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+
 }
  
-
+/*
   .navbar {
-    background: rgba(0,0,0,0.5);
+    background: rgba(0,0,0,0.1);
+    font
   }
+
+   .navbar-default .navbar-nav > .active{
+    color: #000;
+   background: #d65c14;
+ }
+ .navbar-default .navbar-nav > .active > a, 
+ .navbar-default .navbar-nav > .active > a:hover, 
+ .navbar-default .navbar-nav > .active > a:focus {
+      color: #000;
+      background: #d65c14;
+ }
